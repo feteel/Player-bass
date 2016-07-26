@@ -1,3 +1,3 @@
 # Player-bass
 my first music player For windows.
-written in Delphi 7
+Written in Delphi 7
